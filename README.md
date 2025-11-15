@@ -112,8 +112,8 @@ patient-doctor-summarizer/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/patient-doctor-summarizer.git
-cd patient-doctor-summarizer
+git clone https://github.com/24CSB0B35/Medhira.git
+cd Test_Demo
 ```
 
 ### Step 2: Backend Setup
