@@ -269,7 +269,7 @@ brew services start mongodb-community
 
 ## 🔗 Links
 
-- **GitHub Repository**: [https://github.com/your-username/patient-doctor-summarizer](https://github.com/your-username/patient-doctor-summarizer)
+- **GitHub Repository**: https://github.com/24CSB0B35/Medhira
 
 
 # Medhira
